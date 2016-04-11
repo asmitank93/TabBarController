@@ -14,6 +14,8 @@
 		E73C21DD1C3A8B4B00B56638 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E73C21DC1C3A8B4B00B56638 /* Images.xcassets */; };
 		E73C21E01C3A8B4B00B56638 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E73C21DE1C3A8B4B00B56638 /* LaunchScreen.xib */; };
 		E73C21EC1C3A8B4B00B56638 /* TabBarControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E73C21EB1C3A8B4B00B56638 /* TabBarControllerTests.m */; };
+		E73C21F61C3A8BF800B56638 /* Home-52.png in Resources */ = {isa = PBXBuildFile; fileRef = E73C21F51C3A8BF800B56638 /* Home-52.png */; };
+		E73C21F81C3A8C7900B56638 /* Appointment Reminders-52.png in Resources */ = {isa = PBXBuildFile; fileRef = E73C21F71C3A8C7900B56638 /* Appointment Reminders-52.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		E73C21E51C3A8B4B00B56638 /* TabBarControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabBarControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E73C21EA1C3A8B4B00B56638 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E73C21EB1C3A8B4B00B56638 /* TabBarControllerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarControllerTests.m; sourceTree = "<group>"; };
+		E73C21F51C3A8BF800B56638 /* Home-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home-52.png"; sourceTree = "<group>"; };
+		E73C21F71C3A8C7900B56638 /* Appointment Reminders-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appointment Reminders-52.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 		E73C21C31C3A8B4B00B56638 = {
 			isa = PBXGroup;
 			children = (
+				E73C21F71C3A8C7900B56638 /* Appointment Reminders-52.png */,
+				E73C21F51C3A8BF800B56638 /* Home-52.png */,
 				E73C21CE1C3A8B4B00B56638 /* TabBarController */,
 				E73C21E81C3A8B4B00B56638 /* TabBarControllerTests */,
 				E73C21CD1C3A8B4B00B56638 /* Products */,
@@ -201,7 +207,9 @@
 			files = (
 				E73C21DB1C3A8B4B00B56638 /* Main.storyboard in Resources */,
 				E73C21E01C3A8B4B00B56638 /* LaunchScreen.xib in Resources */,
+				E73C21F81C3A8C7900B56638 /* Appointment Reminders-52.png in Resources */,
 				E73C21DD1C3A8B4B00B56638 /* Images.xcassets in Resources */,
+				E73C21F61C3A8BF800B56638 /* Home-52.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
